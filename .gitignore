@@ -1,0 +1,42 @@
+# .NET build output
+bin/
+obj/
+out/
+
+# IDE/editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# EF Core migrations
+Migrations/
+
+# User/secret configurations
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.secret.json
+
+# Test and coverage results
+TestResults/
+*.trx
+coverage/
+coverage*/ 
+
+# Logs
+*.log
+
+# NuGet packages and artifacts
+*.nupkg
+*.snupkg
+.nuget/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Publish output (if used)
+.publish/
+*.Publish.xml
