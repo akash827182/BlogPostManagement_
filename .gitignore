@@ -16,6 +16,7 @@ Migrations/
 # User/secret configurations
 appsettings.Development.json
 appsettings.Local.json
+appsettings.json
 appsettings.*.secret.json
 
 # Test and coverage results
