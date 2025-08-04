@@ -18,6 +18,10 @@ appsettings.Development.json
 appsettings.Local.json
 appsettings.json
 appsettings.*.secret.json
+**/appsettings.json
+
+Q3.API/appsettings.json
+
 
 # Test and coverage results
 TestResults/
